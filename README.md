@@ -1,7 +1,7 @@
 # Project summary
 The objective of this project is to build a simple webpage by React.
 
-![full screen image of webpage](http://raw.githubusercontent.com/longnghiem/powerful-solution-10/master/src/photo/page.png)
+![page](https://user-images.githubusercontent.com/3630009/41269202-9f046e52-6e0c-11e8-8f14-efb2ebbde774.png)
 
 * The whole page is divided into 7 components.
 * The Bubble component is reused once, and the Blog_text component is reused 6 times.
