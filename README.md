@@ -1,3 +1,5 @@
+Live demo [here](https://longnghiem.github.io/single-static-webpage-react/)
+
 # Project summary
 The objective of this project is to build a simple webpage by React.
 
@@ -11,15 +13,13 @@ state to dynamically change the html elements' class names ('hidden' and 'inacti
 # Language used
 * Html
 * Css
-* Javascript
-* Library: React (create-react-app)
+* Javascript: React 16.4
 
 # Getting started
-Click [here](https://longnghiem.github.io/powerful-solution-10/) to visit the page.
-Or clone the project:
+Clone the project:
 ```
-> git clone git@github.com:longnghiem/powerful-solution-10.git
-> cd powerful-solution-10
+> git clone git@github.com:longnghiem/single-static-webpage-react.git
+> cd single-static-webpage-react
 ```
 Then make sure to use branch 'master':
 ```
